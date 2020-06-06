@@ -1,0 +1,5 @@
+{
+  "PORT": "3000",
+  "JWT_SECRET": "test",
+  "BCRYPT_ROUNDS": 8
+}
